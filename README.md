@@ -49,3 +49,17 @@ The dataset contains information about restaurants including:
 - Observed the distribution of restaurant ratings.
 - Explored the relationship between votes and ratings.
 - Studied how price range influences online delivery and table booking services.
+
+##  Features
+- Data cleaning
+- Visualization
+- Insights generation
+
+##  Tech Stack
+- Python
+- Pandas
+- Matplotlib
+
+##  How to Run
+1. Download dataset
+2. Run notebook
